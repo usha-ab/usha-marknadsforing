@@ -2,7 +2,7 @@
 
 Ton: nyfiken, konkret, inte säljig. Alltid personaliserad: en rad om *deras* kväll först. Ingen hype, inga siffror vi inte har. Skickas från pablo.acosta@usha.se. Loggas i CRM efter skick.
 
-Vad vi faktiskt kan lova just nu: gratis under beta, biljetter med QR, klippkort, kalender, följare, utbetalning via Stripe (EU), en person som sätter upp allt personligen. Vad vi inte lovar: självregistrering för icke-svenska arrangörer (kräver BankID i dag – vi släpper in manuellt).
+Vad vi faktiskt kan lova just nu: inget medlemskap att betala under betan (provisionen på försäljning, 3–15 %, finns), biljetter med QR, klippkort, kalender, följare, utbetalning via Stripe (EU), en person som sätter upp allt personligen. Vad vi inte lovar: självregistrering för icke-svenska arrangörer (kräver BankID i dag – vi släpper in manuellt).
 
 ## Mejl 1 – första kontakt (max 150 ord)
 
@@ -38,9 +38,13 @@ Hi {name} – I run The Lab in Stockholm and built the platform we sell it on (u
 - QR-biljett i mobilen, skannas i dörren från valfri telefon. Sälj i entrén via QR utan kortläsare.
 - Kalender, följ (även utan konto), automatiskt mejl till följare vid nytt datum.
 - Facebook-event skapas från plattformen.
-- Utbetalning via Stripe till bolag i EU. Provision: ingen under beta.
+- Utbetalning via Stripe till bolag i EU. Medlemskapet är gratis under betan; plattformens provision på försäljning är 3–15 % beroende på nivå.
 - Avräkning med lokalen (t.ex. 50/50) räknas ut per kväll.
 
 ## Personaliseringsregler
 
 En rad om deras kväll som bara kan skrivas av någon som tittat. Aldrig "I love what you're doing". Inga bilagor. En fråga, inte tre.
+
+## Partnerprogrammet (stycke att lägga till när det passar)
+
+PS. We also run a partner programme: your link works on every page of usha.se, and you earn 30% of Usha's revenue on everything the people you bring in buy or sell for twelve months – plus a month of premium for every creator who publishes. Details on usha.se/app/partner once you have an account.

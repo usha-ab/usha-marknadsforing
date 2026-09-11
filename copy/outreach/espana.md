@@ -2,7 +2,7 @@
 
 Tono: curioso, concreto, sin venta agresiva. Siempre una línea sobre *su* noche antes de nada. Sin cifras que no tengamos. Se envía desde pablo.acosta@usha.se y se registra en el CRM después.
 
-Lo que sí podemos prometer hoy: gratis durante la beta, entradas con código QR, bonos de varias noches, calendario, seguidores que reciben un correo con cada nueva fecha, pagos por Stripe (UE), y una persona que lo configura todo personalmente. Lo que no prometemos: registro automático para organizadores fuera de Suecia (hoy requiere BankID sueco; damos acceso manualmente).
+Lo que sí podemos prometer hoy: sin cuota de suscripción durante la beta (la comisión sobre ventas, del 3 al 15 %, sí existe), entradas con código QR, bonos de varias noches, calendario, seguidores que reciben un correo con cada nueva fecha, pagos por Stripe (UE), y una persona que lo configura todo personalmente. Lo que no prometemos: registro automático para organizadores fuera de Suecia (hoy requiere BankID sueco; damos acceso manualmente).
 
 ## Organizadores y salas
 
@@ -67,9 +67,13 @@ Hola {nombre}, organizo The Lab en Estocolmo (tarraxo/urban kiz, lunes). Estamos
 - Entrada QR en el móvil, se escanea en la puerta desde cualquier teléfono. Venta en puerta por QR sin datáfono.
 - Calendario, seguir (también sin cuenta), correo automático a los seguidores con cada nueva fecha.
 - El evento de Facebook se crea desde la plataforma.
-- Pagos por Stripe a empresas de la UE. Comisión: ninguna durante la beta.
+- Pagos por Stripe a empresas de la UE. La suscripción es gratuita durante la beta; la comisión de la plataforma sobre las ventas es del 3 al 15 % según el nivel.
 - Liquidación con la sala (p. ej. 50/50) calculada por noche.
 
 ## Reglas de personalización
 
 Una línea sobre su noche que solo puede escribir alguien que ha mirado. Nunca "me encanta lo que hacéis". Sin adjuntos. Una pregunta, no tres.
+
+## Programa de partners (párrafo para añadir cuando encaje)
+
+PD. También tenemos un programa de partners: tu enlace funciona en todas las páginas de usha.se y ganas el 30 % de los ingresos de Usha por todo lo que compren o vendan las personas que traigas durante doce meses, más un mes de premium por cada creador que publique. Detalles en usha.se/app/partner cuando tengas cuenta.
