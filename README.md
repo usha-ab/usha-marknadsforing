@@ -9,7 +9,7 @@ Offentligt arbetsrepo för Usha AB:s marknadsföring: strategi, innehållsplaner
 | Mapp | Innehåll |
 |---|---|
 | `docs/` | Strategi, innehållsplan, värdekarta för The Lab, beslut |
-| `copy/outreach/` | Mallar för kontakt med arrangörer och kreatörer (EN/SV) |
+| `copy/outreach/` | Mallar för kontakt med arrangörer och kreatörer (EN/SV/ES) |
 | `copy/instagram/` | Bio, inläggsmallar, hashtags |
 | `media/bild` | Foton och grafik (JPG/PNG/WebP, max ~5 MB per fil) |
 | `media/video` | Klipp och reels (MP4, korta; längre original ligger i Drive och länkas) |
@@ -28,5 +28,6 @@ Se `media/README.md` för filregler.
 
 ## Arbetssätt
 
-- Pablo filmar och publicerar. Claude (assistenten) skriver, klipper förslag, sätter mätlänkar, håller kalendern. Mariana hjälper till på plats vid behov.
+- Pablo filmar och publicerar. Claude (assistenten) skriver, klipper förslag, sätter mätlänkar, håller kalendern.
+- **Mariana** har mandat att diskutera strategin med Pablo och driva marknadsföringen framåt på eget initiativ: hon kan ändra i dokumenten här, publicera i kanalerna och ta kontakt enligt mallarna. Riktig korrespondens loggas i CRM som för alla.
 - Varje ändring committas med en rad om varför. Stora media-original: Drive, länk här.

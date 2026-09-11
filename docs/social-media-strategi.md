@@ -45,7 +45,7 @@ Kreatör = alla med något att lära ut eller visa upp (dans är ursprunget, int
 
 Bevis i stället för hype: BankID, riktiga kvällar, riktiga namn, betalning och biljett på ett ställe. Ton: nyfiken, konkret, pedagogisk, inte säljig. Aldrig "Usch-Ja!". Usha AB / Usha Platform.
 
-Språk: Instagram/TikTok engelska (svenska i stories), Facebook blandat, LinkedIn svenska, Europa-outreach engelska.
+Språk: Instagram/TikTok engelska (svenska i stories), Facebook blandat, LinkedIn svenska, Europa-outreach engelska, Spanien spanska (`copy/outreach/espana.md`).
 
 ## 5. Kanaler och roller
 
@@ -53,7 +53,7 @@ Språk: Instagram/TikTok engelska (svenska i stories), Facebook blandat, LinkedI
 - **Facebook – automatik.** Event per Lab-måndag från appen; samma inlägg som IG kopieras.
 - **LinkedIn – Pablo.** Varannan vecka: vad som byggdes, vad det lärde, en siffra. Riktar sig till venues och företag.
 - **TikTok – tidigast dag 60**, med reels som fungerat.
-- **Mariana – stöd på plats.** Foto och stories på måndagar när hon är där. Inga egna kanaler, inga deadlines.
+- **Mariana – medansvarig.** Har mandat att diskutera strategin med Pablo och driva marknadsföringen framåt på eget initiativ (dokument, kanaler, kontakter enligt mallarna). Foto och stories på plats på måndagar när hon är där.
 - **Claude.** Bildtexter, reel-manus, bildval ur biblioteket, FB-event, UTM-länkar, kalender, måndagsrapport, outreach-utkast. Publicerar aldrig utan ja.
 
 ## 6. Innehållspelare
