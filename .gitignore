@@ -1,0 +1,4 @@
+.DS_Store
+*.tmp
+# Original i full storlek ligger i Drive – bara komprimerade versioner här.
+media/**/*-original.*

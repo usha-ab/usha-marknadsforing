@@ -1,0 +1,11 @@
+# Text i UTF-8, LF. Media behandlas som binärt.
+* text=auto eol=lf
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.mp4 binary
+*.mov binary
+*.mp3 binary
+*.m4a binary
+*.wav binary
