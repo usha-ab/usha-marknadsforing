@@ -21,7 +21,7 @@ PROGRAMMET (fakta, ändra inte siffrorna)
 - Räknas när köpet är betalt; återbetalat räknas bort; inget för egna köp.
 - Bolag: kontant via Stripe kvartalsvis från 200 kr, annars kredit. Privatpersoner: kredit.
 - Gratis, inga volymkrav. Länken fungerar på alla sidor på usha.se.
-- Utbetalningar öppnar inom kort (del B); intjänat räknas från dag ett.
+- Kredit och premium-tid delas ut automatiskt; andelar godkänns efter 14 dagar och betalas kvartalsvis.
 - Utanför Sverige: säljarkonton sätts upp personligen av Pablo (BankID-krav). Partner kan vem som helst vara.
 
 VAD SOM ÄR MEST VÄRT FÖR MOTTAGAREN (välj EN vinkel efter typ)
@@ -36,7 +36,7 @@ SKRIV
 3. En rad att lägga i bio/inlägg om mottagaren vill sprida länken själv.
 
 SPÄRRAR
-- Hitta inte på siffror utöver de ovan. Lova inte utbetalningsdatum. Nämn inte Mariana. Skriv aldrig "Usch-Ja!". Bolaget heter Usha AB.
+- Hitta inte på siffror utöver de ovan. Lova inga exakta utbetalningsdatum. Nämn inte Mariana. Skriv aldrig "Usch-Ja!". Bolaget heter Usha AB.
 - Om TYP är kreatör utanför Sverige: säg att Pablo sätter upp säljarkontot personligen, lova inte självregistrering.
 - Ingen bilaga, en fråga, inga tre.
 

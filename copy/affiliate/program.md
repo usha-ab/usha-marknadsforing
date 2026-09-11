@@ -1,6 +1,6 @@
 # Usha Partner – programmet i klartext
 
-Version 1 · 2026-09-11 · Nivåerna beslutade av Pablo. Funktionen: usha.se/app/partner (del A live; utbetalningar öppnar i del B).
+Version 1 · 2026-09-11 · Nivåerna beslutade av Pablo. Funktionen: usha.se/app/partner (partnersida), usha.se/partner (publik sida). Alla tre delarna är byggda 2026-09-11; kontanta utbetalningar körs som torrkörning tills Pablo slår på SETTLEMENT_PAYOUTS_ENABLED.
 
 ## Erbjudandet (SV)
 
@@ -53,4 +53,4 @@ Cómo empezar: crea una cuenta en usha.se → Perfil → Programa de partners �
 - Ushas egna kvällar (The Lab) har ingen provision; där räknas 10 % av biljettpriset som Ushas intäkt.
 - Kontant utbetalning bara till bolag (beta-grinden och skattereglerna). Privatpersoner får kredit.
 - Utländska kreatörer kan inte registrera sig som säljare själva (BankID) – Pablo släpper in dem manuellt. Som partner (värvare) kan vem som helst med konto vara med.
-- Utbetalningar öppnar i del B; allt som tjänas nu ligger i ledgern och betalas då.
+- Kredit och premium-tid delas ut av det dagliga jobbet; andelar godkänns 14 dagar efter köpet och betalas kvartalsvis (bolag via Stripe, annars kredit).
