@@ -20,7 +20,7 @@ Busco a unos pocos organizadores en España para abrir la plataforma con ellos. 
 
 Pablo Acosta
 Usha AB · usha.se
-usha.se/event/the-lab-tarraxo-urban-kizomba
+usha.se/series/the-lab-tarraxo-urban-kizomba
 
 ### Correo 2 – seguimiento a los 7 días (máx. 60 palabras)
 

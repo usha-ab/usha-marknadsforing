@@ -12,7 +12,7 @@ jag driver The Lab, en måndagskväll med tarraxo och urban kiz på Bacchi Syre 
 
 Jag letar efter ett par arrangörer och lokaler i Stockholm att öppna plattformen med. Det som finns i dag: QR-biljetter som skannas i dörren, klippkort, kalender, följare som får mejl vid nytt datum, utbetalning via Stripe och avräkning med lokalen per kväll. Inget medlemskap att betala under betan (provisionen på försäljning är 3–15 % efter nivå), och jag sätter upp allt åt er.
 
-Vill ni se hur en måndag ser ut på plattformen? Länk: usha.se/event/the-lab-tarraxo-urban-kizomba. Eller 20 minuter över en kaffe.
+Vill ni se hur en måndag ser ut på plattformen? Länk: usha.se/series/the-lab-tarraxo-urban-kizomba. Eller 20 minuter över en kaffe.
 
 Pablo Acosta
 Usha AB

@@ -18,7 +18,7 @@ Would it be useful to see how The Lab runs on it? I can send a link to a live ni
 
 Pablo Acosta
 Usha AB · usha.se
-usha.se/event/the-lab-tarraxo-urban-kizomba
+usha.se/series/the-lab-tarraxo-urban-kizomba
 
 ## Mejl 2 – uppföljning efter 7 dagar (max 60 ord)
 

@@ -6,7 +6,7 @@ Usha Platform — the platform for human expression 🪩
 Dance, music, sport, art · Stockholm
 Something to teach or show? Start here ↓
 
-Länk i bio: usha.se/event/the-lab-tarraxo-urban-kizomba (byts till usha.se/kalender när kalenderlänken tänds).
+Länk i bio: usha.se/series/the-lab-tarraxo-urban-kizomba — serien listar alla kommande måndagar, så länken åldras inte när en kväll passerat (byts till usha.se/kalender när kalenderlänken tänds).
 Handle: **@ushamovement** (instagram.com/ushamovement). Proffskonto, kopplat till Facebook-sidan USHA. Kontot är igång sedan 2026-09; de tidigare planerade namnen @usha.platform / @ushaplatform används inte.
 
 ## Eventinlägg (söndag)

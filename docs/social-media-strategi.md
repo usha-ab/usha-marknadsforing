@@ -112,4 +112,4 @@ Samtycke innan gäster filmas i närbild; skylt i dörren. Inga påhittade siffr
 - Styrdokument: `~/marketing/usha-styrdokument.md`
 - Vad Usha kan: https://claude.ai/code/artifact/42c630b6
 - Canva Brand Kit USHA: canva.com/brand/kAGGHxuw2HQ
-- The Lab: https://usha.se/event/the-lab-tarraxo-urban-kizomba · Kalender: https://usha.se/kalender
+- The Lab: https://usha.se/series/the-lab-tarraxo-urban-kizomba · Kalender: https://usha.se/kalender
