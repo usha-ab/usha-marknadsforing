@@ -49,7 +49,7 @@ Språk: Instagram/TikTok engelska (svenska i stories), Facebook blandat, LinkedI
 
 ## 5. Kanaler och roller
 
-- **Instagram (primär) – Pablo.** Nytt proffskonto kopplat till FB-sidan USHA. Handle: @usha.platform (reserv @ushaplatform). Bio i `copy/instagram/mallar.md`. Länk i bio: usha.se/event/the-lab-tarraxo-urban-kizomba tills kalendern tänds. 2 inlägg/vecka + stories måndag + 1 reel/vecka.
+- **Instagram (primär) – Pablo.** Nytt proffskonto kopplat till FB-sidan USHA. Handle: **@ushamovement**. Bio i `copy/instagram/mallar.md`. Länk i bio: usha.se/series/the-lab-tarraxo-urban-kizomba tills kalendern tänds. 2 inlägg/vecka + stories måndag + 1 reel/vecka.
 - **Facebook – automatik.** Event per Lab-måndag från appen; samma inlägg som IG kopieras.
 - **LinkedIn – Pablo.** Varannan vecka: vad som byggdes, vad det lärde, en siffra. Riktar sig till venues och företag.
 - **TikTok – tidigast dag 60**, med reels som fungerat.
