@@ -76,7 +76,7 @@ Språk: Instagram/TikTok engelska (svenska i stories), Facebook blandat, LinkedI
 
 ## 8. Mätning
 
-UTM på alla länkar (`?utm_source=instagram&utm_medium=social&utm_campaign=thelab`). GA4 mäter sign_up och booking_complete; vecka 1 läggs gästköp, follow och klippkortsköp till. Måndagsrapport: gäster, biljetter via SoMe, nya följare, bästa/sämsta inlägg. Format som inte ger något på 4 veckor byts ut.
+UTM på alla länkar enligt `docs/utm-rutin.md` — kanalen bärs numera hela vägen in i bokningen, så även gästköp går att härleda. GA4 mäter köp (med belopp och kanal), påbörjad kassa, klippkortsköp, följare med och utan konto, samt nya konton. Måndagsrapport: gäster, biljetter via SoMe, nya följare, bästa/sämsta inlägg. Format som inte ger något på 4 veckor byts ut.
 
 ## 9. Betald räckvidd
 

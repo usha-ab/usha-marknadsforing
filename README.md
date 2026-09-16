@@ -8,7 +8,7 @@ Offentligt arbetsrepo för Usha AB:s marknadsföring: strategi, innehållsplaner
 
 | Mapp | Innehåll |
 |---|---|
-| `docs/` | Strategi, innehållsplan, värdekarta för The Lab, beslut |
+| `docs/` | Strategi, innehållsplan, värdekarta för The Lab, UTM-rutin, beslut |
 | `copy/outreach/` | Mallar för kontakt med arrangörer och kreatörer (EN/SV/ES) |
 | `copy/affiliate/` | Partnerprogrammet: erbjudandet i klartext (SV/EN/ES) och prompten för personliga erbjudanden |
 | `copy/instagram/` | Bio, inläggsmallar, hashtags |
