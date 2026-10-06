@@ -8,7 +8,7 @@ Offentligt arbetsrepo för Usha AB:s marknadsföring: strategi, innehållsplaner
 
 | Mapp | Innehåll |
 |---|---|
-| `docs/` | Strategi, innehållsplan, värdekarta för The Lab, UTM-rutin, beslut |
+| `docs/` | Arbetsrutin, innehållskalender, strategi, värdekarta för The Lab, UTM-rutin |
 | `copy/outreach/` | Mallar för kontakt med arrangörer och kreatörer (EN/SV/ES) |
 | `copy/affiliate/` | Partnerprogrammet: erbjudandet i klartext (SV/EN/ES) och prompten för personliga erbjudanden |
 | `copy/instagram/` | Bio, inläggsmallar, hashtags |
@@ -28,6 +28,10 @@ Se `media/README.md` för filregler.
 5. **Namn:** bolaget heter Usha AB, plattformen Usha Platform. Aldrig "Usch-Ja!".
 
 ## Arbetssätt
+
+**Börja här:** [`docs/arbetsrutin.md`](docs/arbetsrutin.md) beskriver hur vi
+jobbar, och [`docs/innehallskalender.md`](docs/innehallskalender.md) är där
+saker faktiskt bestäms. WhatsApp är där vi tänker; kalendern är där det landar.
 
 - Pablo filmar och publicerar. Claude (assistenten) skriver, klipper förslag, sätter mätlänkar, håller kalendern.
 - **Mariana** har mandat att diskutera strategin med Pablo och driva marknadsföringen framåt på eget initiativ: hon kan ändra i dokumenten här, publicera i kanalerna och ta kontakt enligt mallarna. Riktig korrespondens loggas i CRM som för alla.
