@@ -70,6 +70,14 @@ Fliken **Issues** → **New issue** → skriv vad som ska göras → välj vem u
 Du kan ge uppgifter till Pablo, och han till dig. Den som gjort klart stänger
 den.
 
+## Låt din Claude göra jobbet
+
+Din Claude kan redan **läsa** repot — det är offentligt. För att den ska kunna
+**skriva** krävs en koppling: se [`claude-mot-github.md`](claude-mot-github.md).
+
+Då kan du be den uppdatera kalendern, ge Pablo uppgifter och skriva utkast
+direkt, i stället för att du klistrar fram och tillbaka.
+
 ## Om du kör fast
 
 Skriv i Usha Content. Eller lägg en rad i kalendern under Öppet med din fråga
