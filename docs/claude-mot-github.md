@@ -1,106 +1,110 @@
-# Koppla din Claude till GitHub
+# Låt din Claude skriva i repot
 
-Så att din Claude kan **skriva** i repot, inte bara läsa det.
+Din Claude kan redan **läsa** allt här — repot är offentligt, så den behöver
+bara adressen. För att den ska kunna **ändra** något krävs inloggning.
 
-## Läget
+## Varför kopplingen i webbläsaren inte räcker
 
-Repot är offentligt, så vilken Claude som helst kan läsa filerna genom att
-öppna adressen. Det är därför Marianas Claude kunde läsa guiden direkt.
-
-Att **ändra** något kräver inloggning. Det finns två vägar dit. Prova A först —
-den tar några minuter. Fungerar den inte, ta B.
-
----
-
-## Väg A: koppling i Claude
-
-Om ditt Claude-abonnemang tillåter egna kopplingar (connectors) går det att
-lägga till GitHub direkt.
-
-1. Öppna **Inställningar → Kopplingar** (Settings → Connectors) i Claude
-2. Leta efter GitHub i katalogen. Finns den: lägg till och logga in med ditt
-   GitHub-konto
-3. Finns den inte, välj **Lägg till egen koppling** och använd adressen
-   `https://api.githubcopilot.com/mcp/`
-
-Hittar du ingen av delarna har ditt abonnemang inte funktionen, och då är det
-väg B som gäller. Det är inget fel på dig eller kontot.
-
-**Säkerhet:** ger kopplingen dig valet att begränsa åtkomsten, välj bara
-`usha-ab/usha-marknadsforing`. Din Claude behöver inte komma åt plattformens
-kod.
-
-### Om det står "1 GitHub organization wasn't linked"
-
-Då är ditt konto kopplat, men inte organisationen `usha-ab`:
+Du kopplade ditt GitHub-konto till Claude, och det gick bra. Men
+organisationen `usha-ab` kunde inte länkas:
 
 > *usha-ab — You need to be an owner of this organization on GitHub to link it.*
 
-**Det är väntat och inget du gjort fel.** Att koppla en organisation till ett
-personligt Claude-konto kräver ägarbehörighet i organisationen, och du är
-medlem. Att göra dig till ägare skulle ge dig rätt att radera plattformens
-källkod och hantera fakturering — mycket mer än det här handlar om.
+Att länka en organisation kräver ägarbehörighet, och ägare i `usha-ab` kan
+radera plattformens källkod och hantera bolagets fakturering. Det är mycket
+mer än det här handlar om, så vi gör inte så.
 
-**Väg B går runt hela problemet.** Där loggar du in som dig själv med
-GitHub CLI, och din skrivrätt på det här repot räcker. Ingen
-organisationskoppling behövs. Gå till väg B.
+**Claude Code går runt problemet.** Där loggar du in som dig själv, och din
+skrivrätt på det här repot är allt som behövs. Ingen organisationskoppling.
+
+Claude Code ingår i Claude Pro, som du redan har.
 
 ---
 
-## Väg B: Claude Code på din dator
+## Sätt upp det
 
-**Det här är vägen som fungerar för oss.** Den tar en kvart att sätta upp och
-kräver ingen organisationskoppling — du loggar in som dig själv, och din
-skrivrätt på repot är allt som behövs. Claude Code är samma assistent
-i ett terminalfönster, med tillgång till filerna och till GitHub.
+Ungefär en kvart. Du behöver inte kunna programmera — du kommer att skriva på
+svenska, precis som i chatten. Det här är bara installationen.
 
-Du behöver inte kunna programmera. Du kommer att skriva på svenska, precis som
-i chatten.
+### 1. Öppna Terminal
 
-**1. Installera Node** (om du inte har det): ladda ner från nodejs.org, version
-18 eller senare. Nästa, nästa, klar.
+**Mac:** tryck `cmd` + mellanslag, skriv "Terminal", enter.
+**Windows:** sök efter "PowerShell" i startmenyn.
 
-**2. Installera Claude Code.** Öppna Terminal (Mac: tryck cmd+mellanslag, skriv
-"Terminal") och klistra in:
+Ett fönster med textrader öppnas. Du klistrar in en rad i taget och trycker
+enter. Vänta tills den blir klar innan du tar nästa.
+
+### 2. Node
+
+Behövs för att köra Claude Code. Ladda ner från **nodejs.org**, välj versionen
+som står som LTS, och installera som vilket program som helst.
+
+Kontrollera att det tog:
+
+    node --version
+
+Står det `v18` eller högre är du klar.
+
+### 3. Claude Code
 
     npm install -g @anthropic-ai/claude-code
 
-**3. Installera GitHub CLI och logga in:**
+### 4. GitHub CLI
+
+Det är det här steget som ger din Claude rätt att skriva.
+
+**Mac:**
 
     brew install gh
+
+Har du inte brew: hämta installeraren på **cli.github.com**.
+
+**Windows:**
+
+    winget install GitHub.cli
+
+Logga sedan in:
+
     gh auth login
 
-Välj GitHub.com, HTTPS, och logga in via webbläsaren. Det är det som ger din
-Claude rätt att skriva.
+Välj **GitHub.com**, sedan **HTTPS**, och svara ja på att autentisera via
+webbläsaren. Ett fönster öppnas där du loggar in som vanligt.
 
-**4. Hämta hem repot:**
+### 5. Hämta hem repot
 
     gh repo clone usha-ab/usha-marknadsforing
     cd usha-marknadsforing
 
-**5. Starta:**
+### 6. Starta
 
     claude
 
-Nu är du inne. Skriv på svenska.
+Nu är du inne. Logga in med ditt Claude-konto när den frågar, och skriv sedan
+på svenska.
 
 ---
 
-## Vad du kan be din Claude om när det fungerar
+## Vad du kan be den om
 
 - *"Läs innehallskalender.md och lägg till att 5 snabba släpps den 14 oktober,
   jag gör klippet"*
 - *"Ge Pablo en uppgift om att bestämma vem som svarar på DM, märk den admin"*
 - *"Jämför social-media-strategi.md med vad som faktiskt ligger i kalendern och
   säg vad som inte stämmer"*
-- *"Skriv ett utkast till bildtext för Victoria-reveal och lägg det i copy/instagram"*
+- *"Skriv ett utkast till bildtext för Victoria-reveal och lägg det i
+  copy/instagram"*
 
-Din Claude gör ändringen, föreslår en rad om varför, och skickar upp den. Pablo
-ser den i repots historik.
+Den gör ändringen, föreslår en rad om varför, och skickar upp den. Pablo ser
+den i repots historik.
+
+Be den gärna förklara vad den tänker göra innan den gör det, tills du känner
+dig trygg.
+
+---
 
 ## Två saker att veta
 
-**Repot är offentligt.** Allt du skriver här kan läsas av vem som helst. Riktig
+**Repot är offentligt.** Allt du skriver kan läsas av vem som helst. Riktig
 korrespondens med namngivna personer, telefonnummer och personuppgifter hör
 inte hemma här — se reglerna i README.
 
@@ -109,6 +113,5 @@ tillbaka och återställa, och Pablo kan alltid rätta.
 
 ## Om du kör fast
 
-Skriv i Usha Content, eller lägg en uppgift i repot med etiketten `beslut` och
-Pablo som ansvarig. Fastnar du i steg B går det att ta tillsammans på en
-kvart — det är mest klistra in och klicka.
+Skriv i Usha Content. Installationen är mest klistra in och klicka, och fastnar
+du på ett steg går det snabbt att ta tillsammans.
