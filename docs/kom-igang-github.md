@@ -73,7 +73,9 @@ den.
 ## Låt din Claude göra jobbet
 
 Din Claude kan redan **läsa** repot — det är offentligt. För att den ska kunna
-**skriva** krävs en koppling: se [`claude-mot-github.md`](claude-mot-github.md).
+**skriva** behöver du Claude Code på datorn: se
+[`claude-mot-github.md`](claude-mot-github.md). Ingår i Claude Pro, tar en
+kvart att sätta upp.
 
 Då kan du be den uppdatera kalendern, ge Pablo uppgifter och skriva utkast
 direkt, i stället för att du klistrar fram och tillbaka.
