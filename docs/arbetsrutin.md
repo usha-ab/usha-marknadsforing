@@ -38,11 +38,41 @@ var ett ställe dit besluten tar vägen.
 5. **Ingen status i chatten.** Är något klart eller försenat syns det i
    kalendern, inte i ett meddelande som rullar bort.
 
+## Uppgifter och löpande ansvar
+
+Kalendern hanterar innehåll som ska ut ett visst datum. Men mycket av arbetet
+har inget släppdatum: svara på DM, uppdatera profiltext, byta länk, bestämma
+något. Mariana påpekade att det inte passar i Bestämt/Öppet/Idébank, och hon
+har rätt.
+
+**Sådant blir en uppgift (Issue) i stället.** En uppgift har en ansvarig, en
+etikett och ingen tidsplan — den stängs när den är gjord.
+
+Så skapar du en: gå till fliken **Issues** på github.com, tryck **New issue**,
+skriv vad som ska göras, välj vem under **Assignees** och sätt en etikett.
+Fungerar från mobilen. Vem som helst av oss kan ge vem som helst en uppgift.
+
+| Etikett | Vad |
+|---|---|
+| `admin` | Löpande ansvar för kontot: DM, profiltext, länkar |
+| `content` | Produktion: inlägg, video, design, copy |
+| `beslut` | Väntar på ett beslut — den som ska avgöra står som assignee |
+| `plattformen` | Rör usha.se och behöver byggas av Pablo eller Claude |
+
+**Skillnaden mot kalendern:** kalendern svarar på *vad går ut när*. Uppgifterna
+svarar på *vad behöver någon göra*. En idé som blir ett inlägg bor i kalendern;
+att någon ska svara på DM:en bor i en uppgift.
+
+Öppna frågor kan ligga båda ställena. Hör den ihop med ett släpp, lägg den
+under **Öppet** i kalendern. Står den för sig själv, gör en uppgift med
+etiketten `beslut` och sätt den som ska avgöra som assignee.
+
 ## Rytmen
 
-**Veckoavstämning, tjugo minuter.** Vi går igenom Öppet, bestämmer det som går
-att bestämma, och flyttar det som är moget från Idébank till Bestämt. Tjugo
-minuter räcker om vi gjort punkt 1 under veckan.
+**Veckoavstämning, tjugo minuter.** Vi går igenom Öppet och de öppna
+uppgifterna, bestämmer det som går att bestämma, och flyttar det som är moget
+från Idébank till Bestämt. Tjugo minuter räcker om vi gjort punkt 1 under
+veckan.
 
 **Löpande under veckan:** fritt i WhatsApp. Allt som landar förs in i kalendern
 av den som fick svaret.
@@ -66,6 +96,7 @@ kalendern uppdaterad.
 | Vad | Var |
 |---|---|
 | Vad som ska ut och när | `docs/innehallskalender.md` |
+| Uppgifter och löpande ansvar | Issues här i repot |
 | Strategi och långsiktig plan | `docs/social-media-strategi.md` |
 | Innehållsplan för plattformen | `docs/innehallsplan-plattformen.md` |
 | Färdiga texter och mallar | `copy/` |
