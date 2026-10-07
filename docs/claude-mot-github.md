@@ -30,11 +30,28 @@ väg B som gäller. Det är inget fel på dig eller kontot.
 `usha-ab/usha-marknadsforing`. Din Claude behöver inte komma åt plattformens
 kod.
 
+### Om det står "1 GitHub organization wasn't linked"
+
+Då är ditt konto kopplat, men inte organisationen `usha-ab`:
+
+> *usha-ab — You need to be an owner of this organization on GitHub to link it.*
+
+**Det är väntat och inget du gjort fel.** Att koppla en organisation till ett
+personligt Claude-konto kräver ägarbehörighet i organisationen, och du är
+medlem. Att göra dig till ägare skulle ge dig rätt att radera plattformens
+källkod och hantera fakturering — mycket mer än det här handlar om.
+
+**Väg B går runt hela problemet.** Där loggar du in som dig själv med
+GitHub CLI, och din skrivrätt på det här repot räcker. Ingen
+organisationskoppling behövs. Gå till väg B.
+
 ---
 
 ## Väg B: Claude Code på din dator
 
-Fungerar alltid, men tar en kvart att sätta upp. Claude Code är samma assistent
+**Det här är vägen som fungerar för oss.** Den tar en kvart att sätta upp och
+kräver ingen organisationskoppling — du loggar in som dig själv, och din
+skrivrätt på repot är allt som behövs. Claude Code är samma assistent
 i ett terminalfönster, med tillgång till filerna och till GitHub.
 
 Du behöver inte kunna programmera. Du kommer att skriva på svenska, precis som
