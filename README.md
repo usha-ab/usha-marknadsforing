@@ -29,6 +29,9 @@ Se `media/README.md` för filregler.
 
 ## Arbetssätt
 
+**Ny här?** Börja med [`docs/kom-igang-github.md`](docs/kom-igang-github.md) —
+kort guide, fungerar på mobilen.
+
 **Börja här:** [`docs/arbetsrutin.md`](docs/arbetsrutin.md) beskriver hur vi
 jobbar, och [`docs/innehallskalender.md`](docs/innehallskalender.md) är där
 saker faktiskt bestäms. WhatsApp är där vi tänker; kalendern är där det landar.
