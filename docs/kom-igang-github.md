@@ -58,6 +58,18 @@ Repot är **offentligt**. Vem som helst kan läsa det.
 
 Osäker? Fråga hellre än att gissa.
 
+## Ge någon en uppgift
+
+Allt har inte ett släppdatum. Att svara på DM, uppdatera profiltexten eller
+bestämma något är uppgifter, inte innehåll.
+
+Fliken **Issues** → **New issue** → skriv vad som ska göras → välj vem under
+**Assignees** → sätt en etikett (`admin`, `content`, `beslut` eller
+`plattformen`). Tryck **Submit**.
+
+Du kan ge uppgifter till Pablo, och han till dig. Den som gjort klart stänger
+den.
+
 ## Om du kör fast
 
 Skriv i Usha Content. Eller lägg en rad i kalendern under Öppet med din fråga
