@@ -18,7 +18,7 @@ Fyra parametrar, varav de tre första alltid ska vara med:
 |---|---|---|
 | `utm_source` | Var låg länken? | `instagram`, `facebook`, `linkedin`, `tiktok`, `newsletter`, `qr`, `flyer` |
 | `utm_medium` | Vilken sorts yta? | `social`, `story`, `bio`, `email`, `print`, `dm` |
-| `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi` |
+| `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi`, `taxidansare`, `instruktor` |
 | `utm_content` | Vilken variant? (valfri) | `reel`, `carousel`, `post`, `a`, `b` |
 
 Regler som gör datan användbar:
@@ -27,6 +27,24 @@ Regler som gör datan användbar:
 - **Samma ord varje gång.** `instagram` och `Instagram` blir samma sak, men `ig` blir en egen rad i rapporten. Håll dig till tabellen.
 - **Kampanjen är insatsen, inte datumet.** Alla Lab-inlägg har `utm_campaign=thelab`, hela hösten. Vill du skilja veckor åt, använd `utm_content`.
 - **Länka till sidan personen ska till**, inte till startsidan. En kväll, en kurs, en profil.
+
+## Rekryteringslänkar
+
+Två kampanjer värvar folk till torsdagarna i stället för att sälja biljetter. Länka dit ansökan börjar, så att den som saknar konto leds rakt in i att skapa ett och kommer tillbaka efteråt.
+
+| Kampanj | Vem | Sida |
+|---|---|---|
+| `taxidansare` | Taxidansare och volontärer | `https://usha.se/taxi` |
+| `instruktor` | Instruktörer som säljer privatlektioner på öppna kvällar | `https://usha.se/app/events/open` |
+
+Exempel för reelsen:
+
+```
+https://usha.se/taxi?utm_source=instagram&utm_medium=social&utm_campaign=taxidansare&utm_content=reel
+https://usha.se/app/events/open?utm_source=instagram&utm_medium=story&utm_campaign=instruktor&utm_content=reel
+```
+
+Byt `utm_source` och `utm_medium` efter var länken ligger, enligt tabellen ovan.
 
 ## Kombinera med partnerlänken
 
