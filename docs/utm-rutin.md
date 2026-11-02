@@ -9,7 +9,7 @@ Sedan 16 september 2026 bär plattformen kanalen hela vägen: parametern fångas
 Grundform:
 
 ```
-https://usha.se/event/the-lab-tarraxo-urban-kizomba?utm_source=instagram&utm_medium=social&utm_campaign=thelab
+https://usha.se/event/the-lab-torsdag?utm_source=instagram&utm_medium=social&utm_campaign=thelab
 ```
 
 Fyra parametrar, varav de tre första alltid ska vara med:
@@ -56,6 +56,9 @@ För reels och chattar finns korta adresser med kanalen inbyggd. De omdirigerar 
 | `usha.se/taxi/chatt` | Taxidansare i chattar (WhatsApp, Messenger m.fl.) |
 | `usha.se/undervisa/insta` | Instruktörer på Instagram (bio och story) |
 | `usha.se/undervisa/chatt` | Instruktörer i chattar |
+| `usha.se/thelab` | Nästa The Lab-kväll, utan kanal (t.ex. slutbild i film) |
+| `usha.se/thelab/insta` | The Lab på Instagram |
+| `usha.se/thelab/chatt` | The Lab i chattar |
 
 Nya korta länkar läggs i `next.config.js` i creators-platform (redirects).
 
@@ -64,7 +67,7 @@ Nya korta länkar läggs i `next.config.js` i creators-platform (redirects).
 Partnerkoden och kampanjen bor på varsin parameter och krockar inte:
 
 ```
-https://usha.se/event/the-lab-tarraxo-urban-kizomba?ref=B6CA24&utm_source=instagram&utm_medium=story&utm_campaign=thelab
+https://usha.se/event/the-lab-torsdag?ref=B6CA24&utm_source=instagram&utm_medium=story&utm_campaign=thelab
 ```
 
 Då vet vi både vem som värvade och var länken låg.
