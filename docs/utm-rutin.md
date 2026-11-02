@@ -16,7 +16,7 @@ Fyra parametrar, varav de tre första alltid ska vara med:
 
 | Parameter | Vad den svarar på | Våra värden |
 |---|---|---|
-| `utm_source` | Var låg länken? | `instagram`, `facebook`, `linkedin`, `tiktok`, `newsletter`, `qr`, `flyer` |
+| `utm_source` | Var låg länken? | `instagram`, `facebook`, `linkedin`, `tiktok`, `newsletter`, `qr`, `flyer`, `chatt` |
 | `utm_medium` | Vilken sorts yta? | `social`, `story`, `bio`, `email`, `print`, `dm` |
 | `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi`, `taxidansare`, `instruktor` |
 | `utm_content` | Vilken variant? (valfri) | `reel`, `carousel`, `post`, `a`, `b` |
@@ -45,6 +45,19 @@ https://usha.se/undervisa?utm_source=instagram&utm_medium=story&utm_campaign=ins
 ```
 
 Byt `utm_source` och `utm_medium` efter var länken ligger, enligt tabellen ovan.
+
+### Korta länkar
+
+För reels och chattar finns korta adresser med kanalen inbyggd. De omdirigerar till sidan ovan med rätt parametrar, så det är dem du delar:
+
+| Kort länk | Används till |
+|---|---|
+| `usha.se/taxi/insta` | Taxidansare på Instagram (bio och story) |
+| `usha.se/taxi/chatt` | Taxidansare i chattar (WhatsApp, Messenger m.fl.) |
+| `usha.se/undervisa/insta` | Instruktörer på Instagram (bio och story) |
+| `usha.se/undervisa/chatt` | Instruktörer i chattar |
+
+Nya korta länkar läggs i `next.config.js` i creators-platform (redirects).
 
 ## Kombinera med partnerlänken
 
