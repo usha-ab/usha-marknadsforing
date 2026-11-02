@@ -35,13 +35,13 @@ Två kampanjer värvar folk till torsdagarna i stället för att sälja biljette
 | Kampanj | Vem | Sida |
 |---|---|---|
 | `taxidansare` | Taxidansare och volontärer | `https://usha.se/taxi` |
-| `instruktor` | Instruktörer som säljer privatlektioner på öppna kvällar | `https://usha.se/app/events/open` |
+| `instruktor` | Instruktörer som säljer privatlektioner på öppna kvällar | `https://usha.se/undervisa` |
 
 Exempel för reelsen:
 
 ```
 https://usha.se/taxi?utm_source=instagram&utm_medium=social&utm_campaign=taxidansare&utm_content=reel
-https://usha.se/app/events/open?utm_source=instagram&utm_medium=story&utm_campaign=instruktor&utm_content=reel
+https://usha.se/undervisa?utm_source=instagram&utm_medium=story&utm_campaign=instruktor&utm_content=reel
 ```
 
 Byt `utm_source` och `utm_medium` efter var länken ligger, enligt tabellen ovan.
