@@ -18,7 +18,7 @@ Fyra parametrar, varav de tre första alltid ska vara med:
 |---|---|---|
 | `utm_source` | Var låg länken? | `instagram`, `facebook`, `linkedin`, `tiktok`, `newsletter`, `qr`, `flyer`, `chatt` |
 | `utm_medium` | Vilken sorts yta? | `social`, `story`, `bio`, `email`, `print`, `dm` |
-| `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi`, `taxidansare`, `instruktor` |
+| `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi`, `taxidansare`, `instruktor`, `konto` |
 | `utm_content` | Vilken variant? (valfri) | `reel`, `carousel`, `post`, `a`, `b` |
 
 Regler som gör datan användbar:
@@ -59,6 +59,9 @@ För reels och chattar finns korta adresser med kanalen inbyggd. De omdirigerar 
 | `usha.se/thelab` | Nästa The Lab-kväll, utan kanal (t.ex. slutbild i film) |
 | `usha.se/thelab/insta` | The Lab på Instagram |
 | `usha.se/thelab/chatt` | The Lab i chattar |
+| `usha.se/konto` | Skapa konto, utan kanal (slutbild i film) |
+| `usha.se/konto/insta` | Skapa konto, från Instagram |
+| `usha.se/konto/chatt` | Skapa konto, från chattar |
 
 Nya korta länkar läggs i `next.config.js` i creators-platform (redirects).
 
@@ -98,3 +101,7 @@ Detta skickas till GA4 utan att någon behöver göra något:
 Kanalen ligger på bokningen som `utm_source`, `utm_medium`, `utm_campaign` och `utm_content`. Det gör det möjligt att svara på "hur många biljetter kom från Instagram i september" med en säker siffra, även för gästköp där GA4 tappar spåret.
 
 Null betyder okänd kanal, inte direkttrafik. En länk utan parametrar ger null.
+
+## Nya konton
+
+Sedan 2 november 2026 sparas kanalen även på nya konton (`profiles.signup_utm_*`), inte bara på bokningar. Den skrivs en gång, för konton yngre än två dygn, från samma cookie som biljettköpen använder.
