@@ -62,6 +62,8 @@ För reels och chattar finns korta adresser med kanalen inbyggd. De omdirigerar 
 | `usha.se/konto` | Skapa konto, utan kanal (slutbild i film) |
 | `usha.se/konto/insta` | Skapa konto, från Instagram |
 | `usha.se/konto/chatt` | Skapa konto, från chattar |
+| `usha.se/tyck` | Tyck till: DJ-röstningen och torsdagsenkäterna, utan kanal |
+| `usha.se/dj` | Hoppar direkt till DJ-röstningen på Tyck till |
 
 Nya korta länkar läggs i `next.config.js` i creators-platform (redirects).
 
