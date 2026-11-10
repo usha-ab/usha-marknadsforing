@@ -1,6 +1,8 @@
 # Usha – Social media-strategi 2026
 
 Version 1.2 · 11 september 2026 · Ägare: Pablo Acosta · Gäller 90 dagar (till 10 december 2026), revideras varje måndag.
+
+> **Rättelse 10 nov 2026:** The Lab körs **torsdagar** 17–23 (inte måndagar) sedan oktober. Veckorytmen och rutinerna står i `docs/marknadsmotor.md`; läs "måndag" nedan som "torsdag" där det gäller kvällen.
 Ändringar 1.2: nytt fokus (Pablos profil + The Lab → verktygen → evenemang som handelsplats för kreatörer → Europa), värdekarta och klipplista, Mariana i stödroll, repo som kanonisk plats.
 
 Styrdokumentet (`~/marketing/usha-styrdokument.md`) äger affärsidé, ton och KPI:er. Det här dokumentet är kanalplanen.

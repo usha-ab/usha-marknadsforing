@@ -10,11 +10,11 @@ Det som skiljer The Lab från "folk som dansar" är vad man får med sig. Allt i
 | **Workshop 19–20** | Ett tema per vecka, en teknikpoäng, byggt på förra veckan | En konkret förbättring som du kan känna på golvet samma kväll. |
 | **Social 20–23** | Fri dans där du provar det du just lärt dig, med musik som håller ihop kvällen | Att det sitter. Och människorna. |
 
-**Fem måndagar i rad är en progression.** Det är argumentet för klippkortet (practica + workshop 600 kr, allt 800 kr), inte rabatten.
+**Fem torsdagar i rad är en progression.** Det är argumentet för klippkortet (practica + workshop 600 kr, allt 800 kr), inte rabatten.
 
-Teman hittills: connection (7 sep), connection point och ansvar (14 sep). Kommande teman bestäms i måndagsavstämningen och skrivs in i eventbeskrivningen senast söndag.
+Teman hittills: connection (7 sep), connection point och ansvar (14 sep). Kommande teman bestäms i måndagsavstämningen (veckobatchen) och skrivs in i eventbeskrivningen senast söndag.
 
-## Klipplista – sex klipp varje måndag (10 s vardera)
+## Klipplista – sex klipp varje torsdag (10 s vardera)
 
 1. **Temat rakt in i kameran** – Pablo förklarar veckans tema på 20 sekunder, innan folk kommer. Det här är kvällens rubrik.
 2. **En uppgift från practican** – vad paren gör just nu och varför.
@@ -23,11 +23,11 @@ Teman hittills: connection (7 sep), connection point och ansvar (14 sep). Komman
 5. **Samma rörelse på socialen** – att det sitter.
 6. **En gäst säger vad hen tog med sig** – en mening, med samtycke, ansikte eller bara röst.
 
-Filmas vertikalt, ljus från baren, ingen musik i klippet (läggs på i IG). Skicka till Claude tisdag förmiddag → reel-manus och bildtext kommer tillbaka samma dag.
+Filmas vertikalt, ljus från baren, ingen musik i klippet (läggs på i IG). Skicka till Claude fredag förmiddag → reel-manus och bildtext kommer tillbaka samma dag. (The Lab är torsdagar 17–23 sedan oktober 2026.)
 
 ## Serien "Vad du får med dig"
 
-Ett kort inlägg per tema: rubrik = temat, tre rader = varför just det gör dansen bättre, sista raden = nästa måndag och länk. Pedagogiskt, inte säljigt. Passar som carousel (klipp 1 + 3 + 4).
+Ett kort inlägg per tema: rubrik = temat, tre rader = varför just det gör dansen bättre, sista raden = nästa torsdag och länk. Pedagogiskt, inte säljigt. Passar som carousel (klipp 1 + 3 + 4).
 
 ## Vad vi INTE filmar
 
