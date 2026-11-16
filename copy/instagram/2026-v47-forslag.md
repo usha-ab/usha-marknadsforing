@@ -33,16 +33,16 @@ Marianas fyra rutor finns redan – om de inte är publicerade är det här det 
 2. Marianas ruta: *På en practica får du stanna, mitt i steget, fråga och prova igen.*
 3. Marianas ruta: *Föra eller följa? Nybörjare eller van? Minst en instruktör är på plats för att guida och stötta.*
 4. Marianas ruta 3/4 (bild).
-5. **Ny slutruta:** ljust textfält – *Practica 17–19 varje torsdag · Bacchi Syre, Gamla stan · Biljett: länk i bion*
+5. **Ny slutruta:** ljust textfält – *Practica 17–23 varje torsdag · Bacchi Syre, Gamla stan · 130 kr · Biljett: länk i bion*
 
 **Bildtext:**
-> Practica är inte en lektion och inte en fest. Det är två timmar där du får stanna mitt i steget, fråga och prova igen – med någon som guidar. Sen workshop klockan sju och social till elva.
+> Practica är inte en lektion och inte en fest. Du jobbar med det du själv behöver: stannar mitt i steget, frågar och provar igen. Minst en instruktör går runt hela kvällen, och socialdans är en del av träningen.
 > Torsdag 19/11 · Bacchi Syre, Gamla stan · 130 kr hela kvällen
 > Biljett: länk i bion
 
 ### Story-affischen (ons)
 
-Duplicera Open Session-mallen. Foto ur Edits (förslag `1793997449834.jpg`, scenljus i bakgrunden). Text i affischens ordning: **Open Session** → Torsdag 19 november, 17–23 → Practica + workshop + social → Bacchi Syre, Gamla stan → 130 kr · länkdekal.
+Duplicera Open Session-mallen. Foto ur Edits (förslag `1793997449834.jpg`, scenljus i bakgrunden). Text i affischens ordning: **The Lab – Practica** → Torsdag 19 november, 17–23 → Öppen nivå, ingen partner behövs → Bacchi Syre, Gamla stan → 130 kr · länkdekal. (Appen kallar kvällen "Practica", inte "Open Session" – håll samma namn som biljetten.)
 
 ## Kräver beslut innan produktion
 

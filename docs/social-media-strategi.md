@@ -17,7 +17,7 @@ Oförändrat från 1.2, i den här ordningen:
 
 ## 2. Utgångsläge 16 november (siffror, inte känsla)
 
-**The Lab:** torsdagar 17–23 på Bacchi Syre, Gamla stan. Practica 17–19, workshop 19–20, social 20–23. Open Session 130 kr för hela kvällen.
+**The Lab:** torsdagar på Bacchi Syre, Gamla stan. Sedan november en enda **practica 17–23** – ingen ledd workshop, ingen uppdelning i pass, socialdans ingår. Minst en instruktör på plats hela kvällen. 130 kr för hela kvällen. Öppen nivå, ingen partner behövs.
 
 **Instagram @ushamovement, senaste 30 dagarna:**
 
@@ -99,7 +99,7 @@ Utgå alltid från befintlig Canva-mall (duplicera, behåll originalet).
 | Pelare | Andel | Format | Exempel |
 |---|---|---|---|
 | **A. Frågan** | 40 % | Reel, ansikte i kameran, en fråga som krok | "Dansar du själv ibland?", "Vad är viktigt för dig på dansgolvet?" |
-| **B. Vad du får med dig** | 25 % | Reel eller carousel från kvällen: tema, korrigering före/efter, workshopens poäng | Värdekartans klipp 1, 3, 4 |
+| **B. Vad du får med dig** | 25 % | Reel eller carousel från kvällen: en korrigering före/efter, någon som stannar och provar igen, det som satt sig på golvet | Värdekartans klipp 2, 3, 5 (värdekartan behöver uppdateras till practica-formatet) |
 | **C. Kvällen som handelsplats** | 15 % | Gästinstruktör presenteras, "undervisar du i…" | Nelly & Piro, "Undervisar du i kizomba?" |
 | **D. Så funkar det** | 10 % | En sak: biljett, klippkort, följ utan konto | Skärminspelning med voice-over |
 | **E. Affischen** | 10 % | **Story**, inte flöde. Datum, tid, pris, länkdekal | Open Session-affischen |
