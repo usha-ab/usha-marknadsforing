@@ -72,15 +72,19 @@ Ton: varm, konkret, pedagogisk – aldrig "missa inte", aldrig nattklubbsreklam.
 
 ## 5. Utseende
 
-Det som ligger i flödet sedan oktober är vårt utseende – håll fast vid det:
+Källan är Marianas **Usha Brand Guideline 1.2** (16 okt 2026, sidorna 17–22 om sociala medier) i Drive: Usha productions → Brand guidelines & Assets → USHA_v1_2. Kort:
 
-- **Krämvit/persika toning** med mörk text för frågor och textplattor ("Undervisar du i…", "Vill du vara med och höja nivån?").
-- **Serif-rubrik** ("Open Session", "The Lab") på varm, lätt suddig dansbild.
-- **Etikett-chips** i orange för stilar (kizomba, urban kiz).
-- U!-märket i guld som profilbild; guld på svart för The Lab-affischen.
+- **Fotografiet bär färgen.** Människor och lokalens varma ljus (tegel, trä, scenljus), hudtoner behålls. Inget behöver ligga på svart eller guld.
+- **Roca One** i rubriker, namn och teasers ("Open Session", "Vad är viktigt för dig på dansgolvet?"). Faktatext i Canva-mallens raka typsnitt; vid ny mall Outfit.
+- **Textfält:** ljusa varma fält med mörk text (grädde/persika) eller mörka genomskinliga med ljus text. Rundade hörn.
+- **Etikett-chips** i accentorange för stilar (kizomba, urban kiz).
+- **Format:** 1080 × 1350. Granska i mobilens flödesvy innan publicering.
+- **Affischens ordning:** eventnamn → datum och tid → innehåll/medverkande → plats → bokning.
+- Avsändaren USHA MOVEMENT i gamla mallar byts mot aktuell logofil vid nästa malluppdatering.
 - Riktiga foton från kvällarna, aldrig stockbilder. AI-genererat bara för serien *Fler kvällar* och bakgrunder, aldrig som ersättning för en riktig gäst.
+- **Samarbetsinlägg** på @ushamovement godkänns fredagar och söndagar (Usha_samarbete.pdf).
 
-Mallarna och tillgångarna finns i Drive under **Usha productions → Brand guidelines & Assets** och i Canva.
+Utgå alltid från befintlig Canva-mall (duplicera, behåll originalet).
 
 ## 6. Kanaler och roller
 
