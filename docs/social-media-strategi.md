@@ -1,117 +1,147 @@
 # Usha – Social media-strategi 2026
 
-Version 1.2 · 11 september 2026 · Ägare: Pablo Acosta · Gäller 90 dagar (till 10 december 2026), revideras varje måndag.
+Version 1.3 · 16 november 2026 · Ägare: Pablo Acosta, medansvarig Mariana · Gäller till 15 februari 2027, revideras varje måndag i veckoavstämningen.
 
-> **Rättelse 10 nov 2026:** The Lab körs **torsdagar** 17–23 (inte måndagar) sedan oktober. Veckorytmen och rutinerna står i `docs/marknadsmotor.md`; läs "måndag" nedan som "torsdag" där det gäller kvällen.
-Ändringar 1.2: nytt fokus (Pablos profil + The Lab → verktygen → evenemang som handelsplats för kreatörer → Europa), värdekarta och klipplista, Mariana i stödroll, repo som kanonisk plats.
+Ändringar 1.3: skriven om efter den verkliga statistiken från @ushamovement och bokningarna (16 nov). The Lab är **torsdagar**, Instagram är **svenska**, det som faktiskt fungerar (ansikten och frågor) står nu först, länken i bion pekar på kortlänken, målen är omräknade och går att mäta. Version 1.2 finns i git-historiken.
 
-Styrdokumentet (`~/marketing/usha-styrdokument.md`) äger affärsidé, ton och KPI:er. Det här dokumentet är kanalplanen.
+Styrdokumentet (`~/marketing/usha-styrdokument.md`) äger affärsidé och ton. Det här dokumentet är kanalplanen. Rytmen och rutinerna står i `docs/marknadsmotor.md`.
 
-## 1. Fokus (beslut 2026-09-11)
+## 1. Fokus
 
-Ordningen är medveten och varje steg bevisar nästa:
+Oförändrat från 1.2, i den här ordningen:
 
-1. **Pablos profil och The Lab** är det vi marknadsför. En riktig kreatör, en riktig kväll, riktiga priser.
-2. **Genom det visar vi verktygen**: biljett med QR, klippkort, kalender, följ, BankID-märket, statistik. Inte som funktionslista utan som "så här gjorde jag".
-3. **Evenemangen öppnas som handelsplats för kreatörer**: andra kreatörer kan sälja sina pass på The Lab (instruktörsminuter, öppna event, crew) eller lägga upp egna kvällar. The Lab är första exemplet på ett evenemang som fler tjänar på.
-4. **Europa**: vi hör av oss till arrangörer och kreatörer i Europa och erbjuder plattformen. Copy finns i `copy/outreach/`. Viktig begränsning: i dag kräver publicering svenskt BankID; utländska kreatörer släpps in manuellt (admin sätter `bankid_grandfathered_at` efter granskning). Copyn lovar därför "vi sätter upp dig personligen", inte "registrera dig själv".
+1. **Pablos profil och The Lab torsdagar** är det vi marknadsför. En riktig kreatör, en riktig kväll, riktiga priser.
+2. **Genom det visar vi verktygen**: biljett med QR, klippkort, kalender, följ, BankID. Som "så här gör vi", inte som funktionslista.
+3. **Kvällen som handelsplats**: andra instruktörer säljer sina pass på The Lab (gästworkshops som Nelly & Piro, öppna sessioner).
+4. **Europa** – vilar tills vidare (outreach-batchen avstängd 11 nov på Pablos order).
 
-## 2. Utgångsläge (ärligt)
+## 2. Utgångsläge 16 november (siffror, inte känsla)
 
-- Levande produkt: The Lab – Tarraxo & Urban Kizomba, måndagar 17–23 på Bacchi Syre, Gamla stan. Practica 50, workshop 100, social 130, allt 200, klippkort 600 (practica + workshop) / 800 (allt). Senaste kvällen: 5 biljetter.
-- Plattform: eventsidor, QR-biljetter, klippkort, publik kalender, följ (även utan konto), välkomstavdrag 50 kr, BankID-verifierade profiler, instruktörsminuter på öppna event.
-- Facebook-sidan USHA finns och är kopplad till appen. Inget Instagram, inget TikTok.
-- Material: Canva Brand Kit "USHA", 84 skärmdumpar, 9 IG-bilder, Bacchi-foton, hero-videoprompter. IG-bio och mallar i `copy/instagram/`.
-- Kreatörer på väg in: Nando Valoi (dans), Kwame (boxning). Premium gratis ett år.
-- Tid: Pablo gör det mesta själv. Mariana hjälper till lite (på plats: foto/stories på måndagar när hon kan). Claude gör allt som inte kräver att man står i rummet.
+**The Lab:** torsdagar på Bacchi Syre, Gamla stan. Sedan november en enda **practica 17–23** – ingen ledd workshop, ingen uppdelning i pass, socialdans ingår. Minst en instruktör på plats hela kvällen. 130 kr för hela kvällen. Öppen nivå, ingen partner behövs.
 
-## 3. Mål 90 dagar
+**Instagram @ushamovement, senaste 30 dagarna:**
 
-| | Nu | 30 dagar | 90 dagar |
+| | |
+|---|---|
+| Följare | 217 |
+| Visningar | 11 136, varav 65 % icke-följare |
+| Interaktioner | 489 från 198 konton |
+| Profilbesök | 179 |
+| Tryck på länken i bion | 16 |
+| Bokningar spårade från Instagram | 0 sedan 15 okt (5 totalt sedan sep) |
+
+**Vad som bar:**
+
+| Inlägg | Visningar | Interaktioner |
+|---|---|---|
+| "Dansar du själv ibland?" – Pablo, reel | 1 500 | 93 |
+| "Vad är viktigt för dig på dansgolvet?" – Victoria, reel | 1 000 | 67 |
+| Workshopen – reel | 943 | 52 |
+| The Lab-affisch 5 nov | 819 | låg |
+| Open Session-affischer | – | ~35 |
+
+**Slutsatser:**
+
+- **Ansikte + fråga slår affisch.** De tre bästa är människor som pratar till kameran eller dansar, med en fråga som krok. Affischerna syns men ingen gör något med dem.
+- **Räckvidden är inte problemet.** Två av tre visningar når nya människor.
+- **Läckan sitter i länken.** Bion pekade på usha.se och /upplevelser, utan spårning och utan väg till torsdagen. Därför noll spårade köp. Lösning: länksidan `usha.se/insta` (byggd 16 nov) med tre dörrar – The Lab, allt som händer, för kreatörer – så att bion både säljer kvällen och visar plattformen.
+- **Affischer i flödet ersätter varandra.** En ny affisch per vecka trycker ner förra veckans; flödet säger inget om vad man får ut av kvällen.
+
+## 3. Mål till 15 februari 2027
+
+Mätbart i databasen (`bookings.utm_*`) eller i Instagram-statistiken. Inga mål på likes.
+
+| | 16 nov | 15 dec | 15 feb |
 |---|---|---|---|
-| The Lab, gäster per måndag | 5 | 12 | 25 |
-| Klippkort sålda (totalt) | 0 | 3 | 15 |
-| Kreatörer som säljer på The Lab (instruktörsminuter/pass) | 0 | 1 | 3 |
-| Följare Instagram | 0 | 120 | 400 |
-| Följare i appen (konto + e-post) | 0 | 40 | 150 |
-| Kreatörer med publicerat utbud | 1 | 3 | 8 |
-| Venues med profil | 1 | 2 | 4 |
-| Europeiska arrangörer/kreatörer i samtal | 0 | 5 | 15 |
-| Biljetter via SoMe-länk | 0 | 10/mån | 40/mån |
+| Biljetter per torsdag (snitt fyra veckor) | 7 (22/10–12/11: 5, 5, 12, 5) | 12 | 20 |
+| Biljetter spårade från Instagram per månad | 0 | 8 | 25 |
+| Tryck på bio-länken per 30 dagar | 16 | 40 | 80 |
+| Följare | 217 | 280 | 400 |
+| Klippkort sålda (totalt) | – | 3 | 10 |
+| Gästinstruktörer som sålt pass på The Lab | 1 | 2 | 4 |
 
-## 4. Positionering
+Biljetter per torsdag räknas från bokningarna i appen för kvällen; dörrförsäljning som inte går via appen räknas inte.
+
+## 4. Positionering och ton
 
 En mening: Usha är platsen där den som har något att lära ut eller visa upp möter en publik som vill göra något i kväll.
 
-Kreatör = alla med något att lära ut eller visa upp (dans är ursprunget, inte gränsen). Venue = program utan att bli bokare. Publik = nöjesguide; finns inget live finns kurser online.
+Ton: varm, konkret, pedagogisk – aldrig "missa inte", aldrig nattklubbsreklam. Bevis i stället för hype: riktiga namn, riktiga kvällar, BankID.
 
-Bevis i stället för hype: BankID, riktiga kvällar, riktiga namn, betalning och biljett på ett ställe. Ton: nyfiken, konkret, pedagogisk, inte säljig. Aldrig "Usch-Ja!". Usha AB / Usha Platform.
+**Språk:** Instagram på **svenska** (det är där publiken är och det är vad som har fungerat). Engelska bara i bion och när en gäst själv pratar engelska. Facebook följer Instagram.
 
-Språk: Instagram/TikTok engelska (svenska i stories), Facebook blandat, LinkedIn svenska, Europa-outreach engelska, Spanien spanska (`copy/outreach/espana.md`).
+## 5. Utseende
 
-## 5. Kanaler och roller
+Källan är Marianas **Usha Brand Guideline 1.2** (16 okt 2026, sidorna 17–22 om sociala medier) i Drive: Usha productions → Brand guidelines & Assets → USHA_v1_2. Kort:
 
-- **Instagram (primär) – Pablo.** Nytt proffskonto kopplat till FB-sidan USHA. Handle: **@ushamovement**. Bio i `copy/instagram/mallar.md`. Länk i bio: usha.se/series/the-lab-tarraxo-urban-kizomba tills kalendern tänds. 2 inlägg/vecka + stories måndag + 1 reel/vecka.
-- **Facebook – automatik.** Event per Lab-måndag från appen; samma inlägg som IG kopieras.
-- **LinkedIn – Pablo.** Varannan vecka: vad som byggdes, vad det lärde, en siffra. Riktar sig till venues och företag.
-- **TikTok – tidigast dag 60**, med reels som fungerat.
-- **Mariana – medansvarig.** Har mandat att diskutera strategin med Pablo och driva marknadsföringen framåt på eget initiativ (dokument, kanaler, kontakter enligt mallarna). Foto och stories på plats på måndagar när hon är där.
-- **Claude.** Bildtexter, reel-manus, bildval ur biblioteket, FB-event, UTM-länkar, kalender, måndagsrapport, outreach-utkast. Publicerar aldrig utan ja.
+- **Fotografiet bär färgen.** Människor och lokalens varma ljus (tegel, trä, scenljus), hudtoner behålls. Inget behöver ligga på svart eller guld.
+- **Roca One** i rubriker, namn och teasers ("Open Session", "Vad är viktigt för dig på dansgolvet?"). Faktatext i Canva-mallens raka typsnitt; vid ny mall Outfit.
+- **Textfält:** ljusa varma fält med mörk text (grädde/persika) eller mörka genomskinliga med ljus text. Rundade hörn.
+- **Etikett-chips** i accentorange för stilar (kizomba, urban kiz).
+- **Format:** 1080 × 1350. Granska i mobilens flödesvy innan publicering.
+- **Affischens ordning:** eventnamn → datum och tid → innehåll/medverkande → plats → bokning.
+- Avsändaren USHA MOVEMENT i gamla mallar byts mot aktuell logofil vid nästa malluppdatering.
+- Riktiga foton från kvällarna, aldrig stockbilder. AI-genererat bara för serien *Fler kvällar* och bakgrunder, aldrig som ersättning för en riktig gäst.
+- **Samarbetsinlägg** på @ushamovement godkänns fredagar och söndagar (Usha_samarbete.pdf).
 
-## 6. Innehållspelare
+Utgå alltid från befintlig Canva-mall (duplicera, behåll originalet).
 
-- **A. Måndagskvällen (40 %)** – innehållet och värdet, inte stämningen. Se `docs/vardekarta-the-lab.md` för vad som filmas och vad varje pass ger.
-- **B. Möt kreatören (20 %)** – Pablo först, sedan Nando, Kwame, varje ny. Carousel 3 bilder: vad, var, boka.
-- **C. Så funkar Usha (20 %)** – en funktion per inlägg, alltid berättad genom The Lab: "så säljer jag klippkort", "så skannar jag i dörren", "så följer man utan konto".
-- **D. Evenemanget som handelsplats (10 %)** – hur en annan kreatör säljer ett pass på The Lab, hur Bacchi tjänar på kvällen. Skrivet för nästa kreatör och nästa venue.
-- **E. Bygget (10 %)** – founder-story på LinkedIn. Byggt med AI, en person, konkret och ärligt.
+## 6. Kanaler och roller
 
-## 7. Veckorytm (en person)
+- **Instagram (primär).** Pablo äger kontot. Mariana medansvarig: diskuterar strategin, driver framåt, postar efter Pablos ja. Pau fotograferar och redigerar kvällar.
+- **Facebook.** Evenemang per torsdag; biljettlänk sätts om per datum (serien ärver inte).
+- **TikTok.** Tidigast när fyra reels i rad har slagit 1 000 visningar – då återanvänds de.
+- **LinkedIn.** Vilar.
+- **Claude.** Manus, bildtexter, urval ur Drive, poängsättning mot creative director-checklistan, måndagsrapport. Publicerar aldrig själv; manus → Pablos ja → först då produktion.
 
-| Dag | Vad | Vem | Tid |
+## 7. Innehållspelare
+
+| Pelare | Andel | Format | Exempel |
 |---|---|---|---|
-| Söndag | Färdigt inlägg i chatten → publicera på IG, dela FB-event | Claude → Pablo | 5 min |
-| Måndag | 6 klipp enligt klipplistan + 3–5 stories. Sälj i entrén | Pablo (+ Mariana) | under kvällen |
-| Tisdag | Klippen till Claude → reel-text + bildtext → publicera | Pablo | 10 min |
-| Torsdag | Pelare B/C/D, färdigproducerat ur biblioteket → godkänn | Claude → Pablo | 5 min |
-| Måndag fm | Veckoavstämning: siffror, nästa tema, vad som ska produceras | Claude | – |
+| **A. Frågan** | 40 % | Reel, ansikte i kameran, en fråga som krok | "Dansar du själv ibland?", "Vad är viktigt för dig på dansgolvet?" |
+| **B. Vad du får med dig** | 25 % | Reel eller carousel från kvällen: en korrigering före/efter, någon som stannar och provar igen, det som satt sig på golvet | Värdekartans klipp 2, 3, 5 (värdekartan behöver uppdateras till practica-formatet) |
+| **C. Kvällen som handelsplats** | 15 % | Gästinstruktör presenteras, "undervisar du i…" | Nelly & Piro, "Undervisar du i kizomba?" |
+| **D. Så funkar det** | 10 % | En sak: biljett, klippkort, följ utan konto | Skärminspelning med voice-over |
+| **E. Affischen** | 10 % | **Story**, inte flöde. Datum, tid, pris, länkdekal | Open Session-affischen |
 
-## 8. Mätning
+## 8. Veckorytm
 
-UTM på alla länkar enligt `docs/utm-rutin.md` — kanalen bärs numera hela vägen in i bokningen, så även gästköp går att härleda. GA4 mäter köp (med belopp och kanal), påbörjad kassa, klippkortsköp, följare med och utan konto, samt nya konton. Måndagsrapport: gäster, biljetter via SoMe, nya följare, bästa/sämsta inlägg. Format som inte ger något på 4 veckor byts ut.
+| Dag | Vad | Vem |
+|---|---|---|
+| Måndag | Måndagsrapporten (siffror) + veckobatchen (fem varianter, två reelsmanus) i mejlen | Claude |
+| Måndag–tisdag | Pablo säger ja till två varianter | Pablo |
+| Tisdag | Reel 1 (pelare A eller C) publiceras | Mariana |
+| Onsdag | Story med affischen + länkdekal `usha.se/thelab/insta` | Mariana |
+| Torsdag | Reel 2 (pelare B) på förmiddagen. Kvällen: 6 klipp enligt värdekartan + stories | Pablo, Mariana, Pau |
+| Fredag | Klipp och foton till Drive (`Usha productions/ÅÅÅÅ-MM-DD`) | Pau, Mariana |
 
-## 9. Betald räckvidd
+Inlägg publiceras före kl. 12; följarna är mest aktiva 06–12 och minst kl. 18. Kontrollera följarnas städer i statistiken – de aktiva tiderna tyder på att en del bor utanför Sverige.
 
-Noll de första 30 dagarna. Dag 31–90: 500–1 000 kr/mån boost av FB-eventet (Stockholm 25–45, dansintressen), tak 30 kr per såld biljett.
+## 9. Mätning
 
-## 10. Regler
+- **Länken i bion:** `usha.se/insta` (länksidan, varje knapp spåras). **Stories och reels om torsdagen:** `usha.se/thelab/insta`. Chattar: `usha.se/thelab/chatt`. Hela listan i `docs/utm-rutin.md`.
+- Måndagsrapporten läser bokningar per kanal; Instagram-statistiken läses samtidigt (visningar, profilbesök, länktryck).
+- Format som inte ger länktryck på fyra veckor läggs ner utan diskussion.
 
-Samtycke innan gäster filmas i närbild; skylt i dörren. Inga påhittade siffror. Inga utskick utan ja. Allt länkar till usha.se. Guld på svart, Outfit, U-märket.
+## 10. Betald räckvidd
 
-## 11. Plan 30/60/90
+Inget förrän länken i bion har gett spårade köp i två veckor. Därefter: boosta den reel som redan gått bäst organiskt (inte ny produktion), Stockholm 25–50, 500 kr/vecka i fyra veckor, tak 30 kr per spårad biljett. Pablo säger ja innan något spenderas.
 
-- **1–30:** Instagram-konto (Pablo, 20 min). Två veckors innehåll batchat (Claude). FB-event t.o.m. 26 okt. Kreatörsporträtt Pablo/Nando/Kwame. GA4 + UTM. Pablos profil komplett (se innehållsplanen). Första 10 Europa-mejlen skickade.
-- **31–60:** "Så funkar Usha"-serien. Boost testas. Första externa kreatören säljer ett pass på The Lab. Bacchi-porträtt. Första online-kursen filmad.
-- **61–90:** TikTok. Kalender-inlägg när ≥5 händelser. Utvärdering och version 2.
+## 11. AI-verktyg och kostnad
 
-## 12. Första 14 dagarna
+Ställ alltid kostnaden mot kvaliteten. Riktiga ansikten presterar bäst och kostar ingenting.
 
-| Datum | Vad |
-|---|---|
-| Fre 12 sep | Pablo: skapa Instagram-kontot. Claude: söndagsinlägg klart. |
-| Sön 14 sep | IG: The Lab tema "connection". FB-event delas. |
-| Mån 15 sep | 6 klipp + stories. Sälj i entrén. |
-| Tis 16 sep | Reel + "nästa måndag". |
-| Tor 18 sep | Kreatörsporträtt: Pablo – "varför jag byggde Usha". |
-| Sön 21 sep | IG: The Lab tema "connection point / ansvar". |
-| Mån 22 sep | 6 klipp + stories. |
-| Tis 23 sep | Reel + klippkortet "5 kvällar för 4". |
-| Tor 25 sep | Så funkar Usha: kalendern + följ utan konto. |
-| Lör 27 sep | LinkedIn: "vad en måndag på Bacchi lärde mig om plattformen". |
+| Behov | Verktyg | Kostnad |
+|---|---|---|
+| Svensk voice-over | ElevenLabs (Starter, ingår) | 0 kr extra inom kvoten |
+| Bakgrunder, serien *Fler kvällar* | Google Flow, Veo 3.1 Fast/Lite på gratiskrediterna | 0 kr; AI Pro ~210 kr/mån bara under en intensiv kampanj |
+| Grafik i vårt utseende | Canva (Brand Kit) | ingår |
+
+## 12. Regler
+
+Samtycke innan gäster syns i närbild – fråga och anteckna, skylt i dörren. Inga påhittade siffror. Inga utskick utan ja. Allt länkar till usha.se via kortlänkarna.
 
 ## Länkar
 
-- Styrdokument: `~/marketing/usha-styrdokument.md`
-- Vad Usha kan: https://claude.ai/code/artifact/42c630b6
-- Canva Brand Kit USHA: canva.com/brand/kAGGHxuw2HQ
-- The Lab: https://usha.se/series/the-lab-tarraxo-urban-kizomba · Kalender: https://usha.se/kalender
+- Rytmen: `docs/marknadsmotor.md` · Checklistan: `docs/creative-director-checklista.md` · Värdekartan: `docs/vardekarta-the-lab.md`
+- The Lab: https://usha.se/thelab · Instagram: https://instagram.com/ushamovement

@@ -18,7 +18,7 @@ Fyra parametrar, varav de tre första alltid ska vara med:
 |---|---|---|
 | `utm_source` | Var låg länken? | `instagram`, `facebook`, `linkedin`, `tiktok`, `newsletter`, `qr`, `flyer`, `chatt` |
 | `utm_medium` | Vilken sorts yta? | `social`, `story`, `bio`, `email`, `print`, `dm` |
-| `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi`, `taxidansare`, `instruktor`, `konto` |
+| `utm_campaign` | Vilken insats? | `thelab`, `klippkort`, `partner`, `epassi`, `taxidansare`, `instruktor`, `konto`, `kalender`, `kreator`, `om` |
 | `utm_content` | Vilken variant? (valfri) | `reel`, `carousel`, `post`, `a`, `b` |
 
 Regler som gör datan användbar:
@@ -64,8 +64,22 @@ För reels och chattar finns korta adresser med kanalen inbyggd. De omdirigerar 
 | `usha.se/konto/chatt` | Skapa konto, från chattar |
 | `usha.se/tyck` | Tyck till: DJ-röstningen och torsdagsenkäterna, utan kanal |
 | `usha.se/dj` | Hoppar direkt till DJ-röstningen på Tyck till |
+| `usha.se/insta` | **Länken i Instagram-bion.** Länksida med tre dörrar; varje knapp märks själv (se nedan) |
 
 Nya korta länkar läggs i `next.config.js` i creators-platform (redirects).
+
+### Länksidan usha.se/insta
+
+Bion pekar på `usha.se/insta` (creators-platform `src/app/insta/page.tsx`). Själva sidan bär ingen kanal; det gör knapparna, så att vi ser vilken dörr folk valde:
+
+| Knapp | Kampanj | Mål |
+|---|---|---|
+| The Lab – practica varje torsdag | `thelab` | nästa torsdag |
+| Allt som händer | `kalender` | /kalender |
+| Har du något att lära ut? | `kreator` | /for-kreatorer |
+| Vad är Usha? | `om` | /om |
+
+Alla har `utm_source=instagram`, `utm_medium=social`, `utm_content=bio`. I rapporten: `utm_content=bio` = kom via bion, `reel` = länk i en reel/story.
 
 ## Kombinera med partnerlänken
 
