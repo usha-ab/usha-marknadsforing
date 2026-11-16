@@ -18,7 +18,7 @@ Torsdag 19/11 har **0 bokningar** i appen (16 nov). Veckans mål: länken i bion
 
 | Dag | Vad | Pelare | Material | Format |
 |---|---|---|---|---|
-| Mån 17/11 | Bion: länken byts till `usha.se/thelab/insta` | – | – | Pablo i appen |
+| När #591 är live | Bion: länken byts till `usha.se/insta` (länksidan) | – | – | Pablo i appen |
 | Tis 18/11 | **Reel: "Kan man komma ensam?"** | A | Pablo i kameran + klipp 5/11 | se `copy/reels/2026-11-19-the-lab.md` |
 | Ons 19/11 | **Carousel: "Vad händer på en practica?"** | B | Marianas 4 rutor + 1 foto ur Edits som omslag | 1080×1350, Roca One |
 | Ons 19/11 | Story: Open Session-affischen 19/11 + länkdekal | E | Foto ur Edits i befintlig Canva-mall | 1080×1920 |

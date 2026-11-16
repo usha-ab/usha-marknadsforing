@@ -44,7 +44,7 @@ Oförändrat från 1.2, i den här ordningen:
 
 - **Ansikte + fråga slår affisch.** De tre bästa är människor som pratar till kameran eller dansar, med en fråga som krok. Affischerna syns men ingen gör något med dem.
 - **Räckvidden är inte problemet.** Två av tre visningar når nya människor.
-- **Läckan sitter i länken.** Bion pekade på usha.se och /upplevelser, inte på torsdagen. Därför noll spårade köp. Från 16 nov: `usha.se/thelab/insta`.
+- **Läckan sitter i länken.** Bion pekade på usha.se och /upplevelser, utan spårning och utan väg till torsdagen. Därför noll spårade köp. Lösning: länksidan `usha.se/insta` (byggd 16 nov) med tre dörrar – The Lab, allt som händer, för kreatörer – så att bion både säljer kvällen och visar plattformen.
 - **Affischer i flödet ersätter varandra.** En ny affisch per vecka trycker ner förra veckans; flödet säger inget om vad man får ut av kvällen.
 
 ## 3. Mål till 15 februari 2027
@@ -119,7 +119,7 @@ Inlägg publiceras före kl. 12; följarna är mest aktiva 06–12 och minst kl.
 
 ## 9. Mätning
 
-- **Länken i bion och alla stories:** `usha.se/thelab/insta`. Chattar: `usha.se/thelab/chatt`. Hela listan i `docs/utm-rutin.md`.
+- **Länken i bion:** `usha.se/insta` (länksidan, varje knapp spåras). **Stories och reels om torsdagen:** `usha.se/thelab/insta`. Chattar: `usha.se/thelab/chatt`. Hela listan i `docs/utm-rutin.md`.
 - Måndagsrapporten läser bokningar per kanal; Instagram-statistiken läses samtidigt (visningar, profilbesök, länktryck).
 - Format som inte ger länktryck på fyra veckor läggs ner utan diskussion.
 
