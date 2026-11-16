@@ -1,5 +1,7 @@
 # Instagram – bio, mallar, hashtags
 
+> **16 nov 2026 (strategi 1.3):** The Lab är torsdagar och Instagram skrivs på svenska. Mallarna nedan med "Monday" och engelska är från september – utgå från formaten i `docs/social-media-strategi.md` §7 (frågan, vad du får med dig, handelsplatsen, så funkar det, affischen som story). **Länken i bion ska vara `usha.se/thelab/insta`** (sätts i mobilappen: Redigera profil → Länkar).
+
 ## Bio (129 tecken)
 
 Usha Platform — the platform for human expression 🪩
