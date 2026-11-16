@@ -49,3 +49,13 @@ Duplicera Open Session-mallen. Foto ur Edits (förslag `1793997449834.jpg`, scen
 1. **Samtycke:** vem är partnern på Paus bilder från 5/11, och har hon sagt ja till att synas på @ushamovement? Hon är i närbild på alla elva. Utan ja används inga av dem.
 2. Är Marianas practica-carousel redan publicerad? (Den syns inte i flödet.)
 3. Får jag ladda ner Paus 16 klipp (~690 MB) till datorn för att granska dem och klippa reels? Annars väljer Mariana klippen.
+
+## Uppdatering 16 nov
+
+- **Samtycke finns** för partnern på Paus bilder och klipp från 5/11 (Pablo). Gäller bara henne – andra gäster i närbild kräver eget ja.
+- **Rensad VO:** "Pablo om practica - rensad.m4a" i Drive (Usha productions/VO), brus i pauserna ~10–15 dB lägre, -16 LUFS. Skickad till Mariana. Låter den fel spelas den in igen.
+- **Klippval** (lokalt i `~/marketing/media/2026-11-05/klipp`):
+  - Reel 1, intro: `Snapchat-1721241683` (55 s, stående) – Bacchis dörr → trappan → lokalen.
+  - Reel 2, Pablo + partnern: `Snapchat-2125446981` (22 s), `Snapchat-285371752` (60 s), `Snapchat-624562002` (20 s), `Snapchat-761717755` (8 s, ler in i kameran).
+  - `Snapchat-329124635` och `Snapchat-961307842` är samma klipp.
+- Kvar: Mariana svarar om practica-carouseln redan är publicerad.
