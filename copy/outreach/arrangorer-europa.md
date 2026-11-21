@@ -1,50 +1,66 @@
-# Outreach – arrangörer och venues i Europa (EN)
+# Outreach – arrangörer och lokaler i Europa (EN)
 
-Ton: nyfiken, konkret, inte säljig. Alltid personaliserad: en rad om *deras* kväll först. Ingen hype, inga siffror vi inte har. Skickas från pablo.acosta@usha.se. Loggas i CRM efter skick.
+Uppdaterad 2026-11-21. Ton: nyfiken, konkret, inbjudan – inte säljpitch. Alltid en rad om *deras* kväll först. Skickas från pablo.acosta@usha.se och loggas i CRM.
 
-Vad vi faktiskt kan lova just nu: inget medlemskap att betala under betan (provisionen på försäljning, 3–15 %, finns), biljetter med QR, klippkort, kalender, följare, utbetalning via Stripe (EU), en person som sätter upp allt personligen. Vad vi inte lovar: självregistrering för icke-svenska arrangörer (kräver BankID i dag – vi släpper in manuellt).
+## Fakta som gäller (kontrollera före varje utskick)
 
-## Mejl 1 – första kontakt (max 150 ord)
+- **Usha Platform** (plattformen), **Usha AB** (bolaget).
+- Free to use: no monthly fees, no tiers. The only cost: **3.5% + SEK 3.50 per ticket, pass or card sold, card fees included.** Free events cost nothing.
+- **The Lab:** practica every Thursday 17–23 at Bacchi Syre in Gamla stan, Stockholm. Kizomba, semba, tarraxo and urban kizomba.
+- **Utländska arrangörer registrerar sig inte själva – Pablo sätter upp allt personligen.** Skriv aldrig "sign up" eller "register".
 
-**Subject:** {Their night} + a question from Stockholm
+**Vad vi inte lovar:** biljetter i euro (väntar), datum för utbetalningar, publik eller marknadsföring i deras stad.
+
+## Regler för alla mejl
+
+- Max 120 ord i brödtexten. Första stycket är personligt: en rad om deras kväll som bara kan skrivas av någon som tittat.
+- **No web addresses or domain names** in the text. Write "search for Usha Platform and you'll find us".
+- Offer no phone calls. One question, not three. No attachments.
+- Kolla Gmail och CRM innan du skriver, skapa utkast, logga i CRM efteråt.
+
+Signature:
+
+```
+Pablo Acosta
+Founder, Usha AB
+pablo.acosta@usha.se
+```
+
+## Mail 1 – first contact
+
+**Subject:** {Their night} – a question from Stockholm
 
 Hi {First name},
 
-I run The Lab, a weekly tarraxo and urban kiz night in Stockholm (practica, workshop, social), and I built the platform we sell it on: usha.se. {One specific line about their night – a date, a DJ, a room, something you actually saw.}
+{One line about their night – a date, a DJ, the room, something you actually saw.}
 
-I'm looking for a handful of organisers in Europe to open the platform with. What it does today: tickets with QR codes scanned at the door, 5-night passes, a public calendar, followers who get an email when you post a new date, payouts through Stripe. It's free while we're in beta, and I set everything up for you personally – no forms.
+I run The Lab, a Thursday practica in Stockholm (kizomba, semba, tarraxo, urban kizomba; 17–23 at Bacchi Syre, Gamla stan), and built the platform we sell it on, Usha Platform.
 
-Would it be useful to see how The Lab runs on it? I can send a link to a live night, or we take 20 minutes on a call.
+It has what a weekly night needs: QR tickets scanned at the door, multi-night passes, a calendar, and an email to followers for each new date. It's free to use; the only cost is 3.5% + SEK 3.50 per ticket, pass or card sold, card fees included. I'd set it all up for you personally.
 
-Pablo Acosta
-Usha AB · usha.se
-usha.se/series/the-lab-tarraxo-urban-kizomba
+Search for Usha Platform and you'll find The Lab. Would you like to see how your night could look on it?
 
-## Mejl 2 – uppföljning efter 7 dagar (max 60 ord)
+## Mail 2 – follow-up after 7 days (max 50 words)
 
-**Subject:** Re: {Their night} + a question from Stockholm
+Reply in the same thread.
 
-Hi {First name} – following up in case this got buried. The short version: a ticketing and calendar platform built by an organiser, free in beta, set up for you by me. Here's what a night looks like: {link to The Lab}. If it's not for you, a "no" is a perfectly good answer.
+Hi {First name},
+
+following up in case this got buried. {Half a sentence that ties back to their night.} The short version: a ticketing and calendar platform built by an organiser, set up for you by me. If it's not for you, a "no" is a perfectly good answer.
 
 Pablo
 
-## DM-variant (Instagram/Facebook, max 3 rader)
+## DM variant (Instagram/Facebook, max 3 lines)
 
-Hi {name} – I run The Lab in Stockholm and built the platform we sell it on (usha.se). Looking for a few organisers in Europe to open it with – free in beta, I set it up for you. Want to see how a night runs on it?
+Hi {name} – I run The Lab, a Thursday practica in Stockholm, and built the platform we sell it on, Usha Platform. I'm looking for a few organisers in Europe to open it with, and I'd set it up for you. Want to see how a night runs on it?
 
 ## Vad de får (om de frågar)
 
-- Event- och seriesidor med tema per kväll, biljettyper, klippkort (N kvällar för priset av N−1).
-- QR-biljett i mobilen, skannas i dörren från valfri telefon. Sälj i entrén via QR utan kortläsare.
+- Event- och seriesidor, biljettyper, klippkort.
+- QR-biljett i mobilen, skannas i dörren från valfri telefon. Försäljning i entrén via QR.
 - Kalender, följ (även utan konto), automatiskt mejl till följare vid nytt datum.
-- Facebook-event skapas från plattformen.
-- Utbetalning via Stripe till bolag i EU. Medlemskapet är gratis under betan; plattformens provision på försäljning är 3–15 % beroende på nivå.
-- Avräkning med lokalen (t.ex. 50/50) räknas ut per kväll.
-
-## Personaliseringsregler
-
-En rad om deras kväll som bara kan skrivas av någon som tittat. Aldrig "I love what you're doing". Inga bilagor. En fråga, inte tre.
-
-## Partnerprogrammet (stycke att lägga till när det passar)
-
-PS. We also run a partner programme: your link works on every page of usha.se, and you earn 30% of Usha's revenue on everything the people you bring in buy or sell for twelve months – plus a month of premium for every creator who publishes. Details on usha.se/app/partner once you have an account.
+- Avräkning med lokalen räknas ut per kväll.
+- Kostnad: 3,5 % + 3,50 kr per sålt pass, biljett eller kort, kortavgiften ingår. Inga månadsavgifter, inga nivåer.
+- Utbetalning, valuta, moms: hänvisa till Pablo, lova inga datum.
+</content>
+</invoke>
